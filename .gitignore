@@ -1,0 +1,36 @@
+# Environment variables and secrets
+.env
+.env.local
+.claude/settings.local.json
+
+# Node modules (if applicable)
+node_modules/
+package-lock.json
+yarn.lock
+
+# IDE
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary files
+*.tmp
+*.temp
